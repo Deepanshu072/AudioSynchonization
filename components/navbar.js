@@ -13,7 +13,7 @@ import Router, { useRouter } from 'next/router'
 import CryptoJs, { AES, SHA256 } from 'crypto-js'
 import Values, { sort } from '../utils/values'
 
-
+//                 ghfdfgdfgdfgdg
 const NavBarHome = props => {
 
     const router = useRouter();
